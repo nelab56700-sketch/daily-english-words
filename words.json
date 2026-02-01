@@ -2,11 +2,25 @@
   {
     "word": "Resilient",
     "meaning": "Able to recover quickly from difficulties",
-    "example": "She remained resilient after many failures but she remind strong and fight back against others."
+    "example": "She remained resilient after many failures.",
+    "videos": [
+      {
+        "title": "The Pursuit of Happyness",
+        "youtubeId": "DMOBlEcRuw8",
+        "start": 83
+      }
+    ]
   },
   {
     "word": "Curious",
     "meaning": "Eager to learn or know something",
-    "example": "Children are naturally curious about the world."
+    "example": "Children are naturally curious.",
+    "videos": [
+      {
+        "title": "Interstellar",
+        "youtubeId": "zSWdZVtXT7E",
+        "start": 45
+      }
+    ]
   }
 ]
