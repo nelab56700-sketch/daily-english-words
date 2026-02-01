@@ -1,17 +1,5 @@
 [
   {
-    "word": "Resilient",
-    "meaning": "Able to recover quickly from difficulties",
-    "example": "She remained resilient after many failures.",
-    "videos": [
-      {
-        "title": "The Pursuit of Happyness fffffff",
-        "youtubeId": "DMOBlEcRuw8",
-        "start": 83
-      }
-    ]
-  },
-  {
     "word": "Curious",
     "meaning": "Eager to learn or know something",
     "example": "Children are naturally curious.",
@@ -20,6 +8,18 @@
         "title": "Interstellar",
         "youtubeId": "zSWdZVtXT7E",
         "start": 45
+      }
+    ]
+  },
+  {
+    "word": "Resilient",
+    "meaning": "Able to recover quickly from difficulties",
+    "example": "She remained resilient after many failures.",
+    "videos": [
+      {
+        "title": "The Pursuit of Happyness ",
+        "youtubeId": "DMOBlEcRuw8",
+        "start": 83
       }
     ]
   }
