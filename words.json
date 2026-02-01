@@ -1,25 +1,97 @@
 [
   {
-    "word": "Curious",
-    "meaning": "Eager to learn or know something",
-    "example": "Children are naturally curious...........",
+    "word": "Obfuscate",
+    "meaning": "To deliberately make something unclear or difficult to understand",
+    "example": "The professor’s explanation only served to obfuscate the topic further.",
     "videos": [
       {
-        "title": "Interstellar",
-        "youtubeId": "zSWdZVtXT7E",
-        "start": 45
+        "title": "TED-Ed: What is Obfuscation?",
+        "youtubeId": "b2nY0GF7Z08",
+        "start": 5
       }
     ]
   },
   {
-    "word": "Resilient",
-    "meaning": "Able to recover quickly from difficulties",
-    "example": "She remained resilient after many failures.",
+    "word": "Ephemeral",
+    "meaning": "Lasting for a very short time",
+    "example": "Fame in social media can be ephemeral.",
     "videos": [
       {
-        "title": "The Pursuit of Happyness",
-        "youtubeId": "DMOBlEcRuw8",
-        "start": 83
+        "title": "Philosophy in Life",
+        "youtubeId": "Z9dhH1vCpZ4",
+        "start": 12
+      }
+    ]
+  },
+  {
+    "word": "Perfunctory",
+    "meaning": "Done with minimal effort or reflection",
+    "example": "His apology was perfunctory and lacked sincerity.",
+    "videos": [
+      {
+        "title": "The Office - Michael's Apologies",
+        "youtubeId": "5yKq5FGxWkQ",
+        "start": 8
+      }
+    ]
+  },
+  {
+    "word": "Ubiquitous",
+    "meaning": "Present, appearing, or found everywhere",
+    "example": "Smartphones have become ubiquitous in modern society.",
+    "videos": [
+      {
+        "title": "Technology & Society",
+        "youtubeId": "1FfPZ9n7Q7Q",
+        "start": 15
+      }
+    ]
+  },
+  {
+    "word": "Esoteric",
+    "meaning": "Intended for or understood by only a small number of people with specialized knowledge",
+    "example": "Quantum physics can seem esoteric to most people.",
+    "videos": [
+      {
+        "title": "Kurzgesagt - Quantum Physics",
+        "youtubeId": "Jh8uZUzuRhk",
+        "start": 20
+      }
+    ]
+  },
+  {
+    "word": "Quixotic",
+    "meaning": "Exceedingly idealistic; unrealistic and impractical",
+    "example": "His quixotic plan to save the world was admirable but impractical.",
+    "videos": [
+      {
+        "title": "Don Quixote Analysis",
+        "youtubeId": "uP0R2iUN-B4",
+        "start": 0
+      }
+    ]
+  },
+  {
+    "word": "Sagacious",
+    "meaning": "Having or showing keen mental discernment and good judgment",
+    "example": "The sagacious leader avoided making hasty decisions.",
+    "videos": [
+      {
+        "title": "Leadership Wisdom",
+        "youtubeId": "lG8s2bXmfTQ",
+        "start": 10
+      }
+    ]
+  },
+  {
+    "word": "Obstreperous",
+    "meaning": "Noisy and difficult to control",
+    "example": "The obstreperous crowd made it hard for the speaker to continue.",
+    "videos": [
+      {
+        "title": "Comedy Show Chaos",
+        "youtubeId": "z0R1mTZ4jV4",
+        "start": 5
       }
     ]
   }
